@@ -1,0 +1,261 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "José Manuel",
+      "surnames": "Hernández Agudo",
+      "description": "Tengo habilidades y capacidades para liderar equipos de IT, demostrables tras más de 30 años de experiencia en puestos de responsabilidad, mi experiencia en transformación digital y servicios está al servicio de mis clientes. Con una formación continuada en gestión y técnica en general.\n\nA nivel de estudios tengo un MBA de la E.A.E. y otro más de ThePowerMBA. Enfocado hacia la definición de servicio al cliente, el cliente siempre en el centro. He dirigido servicios y proyectos, y siempre con un alto nivel de servicio hacia el cliente. He dado servicio a entornos críticos como prisiones y hoteles (ambos con necesidades 24×7). He transformado empresas y organismos públicos hacia entornos operativos digitalizados.\n\nNo tengo problema en tomar decisiones y responsabilidades. Sé delegar y transmitir a mi equipo parte de la responsabilidad. Sé motivar a mis equipos, ver sus habilidades y capacidades personales. Gran mentor, acompaño en el desarrollo de las personas y las promociono. Nunca un técnico mío ha estado solo ante un problema, tengo valores y el trabajo en equipo es fundamental.\n\nComunicador, capaz de transmitir la cultura y principios de la compañía hacia mis equipos. Con visión estratégica del negocio, me gusta trabajar horizontalmente, buscando las sinergias con otras áreas del negocio. Me gusta tener siempre una visión global de las cosas.\n\nBuen analista, con gran capacidad para definir puestos de trabajo, procesos y procedimientos operativos. Esta capacidad de análisis hace que tenga grandes capacidades para definir herramientas de gestión del servicio.\n\n¿Qué puedo aportar a una compañía? Aporto una amplia experiencia en relación con el cliente, toma de requerimientos, diseño de ofertas, presentación de ofertas a cliente, definición y diseño del servicio, seguimiento de la transformación y su paso a servicio. Seguimiento del acuerdo de servicio. Tanto para clientes del sector privado y como del sector Administración pública.\n\nGran experiencia en relación con empresas subcontratadas, diseño herramientas de control, de control de costes, del seguimiento nivel de servicio, gestión de la facturación.\n",
+      "avatar": {
+        "alt": "jmhernandez 3.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/42ad125c-5296-4762-a1c9-64273612983f_jmhernandez-3.png"
+      },
+      "location": {
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Barcelona"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/josemhernandez/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Milcontratos online S.L.",
+          "URL": "https://milcontratos.com"
+        },
+        "roles": [
+          {
+            "name": "CTO Chief Technology Officer",
+            "startDate": "2020-10-01",
+            "finishDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "Máximo responsable técnico, reportando a dirección. Responsable directo de 5 personas (en algún momento fueron 6 y un servicio externalizado de soporte puntual), 3 en el equipo de desarrollo, 1 en presencia en Redes sociales, 1 en puesta en marcha de contratos.\nPersonalmente decidía el próximo objetivo a implantar, si las necesidades de dirección o necesidad del servicio no requerían atacar otros proyectos. Se hablaba en las reuniones de equipo que necesitamos, tiempo, posibles problemas, y veíamos las posibilidades de implantación.\nLogros destacados\n- Definición de KPI para análisis.\n- Gestión de datos para estadísticas de clientes.\n- Desarrollo de herramientas internas.\n- Mejora de la usabilidad de la aplicación.\n- Nuevas capacidades, gestión del documento finalizado.\n- Implantación de JIRA y Agile (Scrum).\n- Aumento de las visitas a la web.\n- Sin finalizar por mi marcha de la compañía, implantación de Blockchain en los procesos transaccionales de los diferentes pasos de validación de firma, y en la inalterabilidad del documento finalizado."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Joomla",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Telefónica – SII Concatel"
+        },
+        "roles": [
+          {
+            "name": "Responsable técnico equipo de transformación servicio de impresión",
+            "startDate": "2012-09-01",
+            "finishDate": "2019-08-01",
+            "challenges": [
+              {
+                "description": "Máximo responsable de diseñar el servicio de impresión para el Departament d’Educació, este servicio es de especial magnitud por el número de sedes, 2500 y por el alcance de usuarios a dar servicio 85000.\n\nEl servicio debía suministra un numero de impresiones por centro, este número estaba definido por el personal adscrito al centro. Una vez el centro tenía la cantidad de copias anuales, dirección creaba los usuarios y asignaba el numero copias a cada usuario. La solución también incluye la monitorización de 5000 fotocopiadoras de 5 modelos de Konica-Minolta, en tiempo real, abriendo incidencia automática en los sistemas de ticketing de incidencias del CTTI y de Konica-Minolta para el envío de un técnico con la pieza necesaria o para el envío automatizado de consumibles, cada 5 minutos se interroga a las 5000 impresoras.\n\nPara que la solución funcionara, dependía de un servidor instalado por nosotros, donde se ubican las herramientas necesarias.\n\nAñadir la complejidad de la configuración de las comunicaciones en el entorno de la \nGeneralitat de Catalunya y el CTTI.\n\nTareas realizadas:\n- Diseño solución de impresión, accounting, y monitorización, juntamente con Konica-Minolta.\n- Pilotos y pruebas de concepto.\n- Despliegue.\n- Soporte al Proveedor e instaladores.\n- Desarrollo de documentación técnica, procedimientos y procesos para la explotación del servicio.\n- Traspaso a servicio.\n- Soporte a Servicio.\n- El proyecto de transformación finalizó en marzo 2018. Actualmente en producción.\n\nLogros\nSe puso en marcha el mayor sistema de accounting y monitorización de impresión existente en Europa, en USA hay una asociación de universidades que tienen un sistema parecido, pero ellos superan el número de usuarios por que trabajan con los alumnos, pero no con el número de sedes."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ohla hotel Barcelona",
+          "URL": "https://www.ohlabarcelona.com/"
+        },
+        "roles": [
+          {
+            "name": "CIO Chief information officer",
+            "startDate": "2011-02-01",
+            "finishDate": "2012-08-01",
+            "challenges": [
+              {
+                "description": "Responsable del diseño y explotación de los sistemas informáticos. Llegue al Ohla hotel con las obras, se rediseñaron del proyecto de ingeniería las redes y la sala de máquinas. Diseñé un nuevo mapa de la electrónica red, de la telefonía fija e inalámbrica interna IP, de la posición de las antenas Wifi para que no hubiera zonas oscuras. Todo se diseñó con elementos de la marca CISCO.\n\nImplantación PMS de Sulcus y TPVs de Squirrel.\n\nDi soporte a los usuarios, dando formación y desarrollando parte de sus Jobs Descriptions con la adaptación de herramientas y plantillas. Soporte 24x7.\n\nLogros\n100% de disponibilidad de los sistemas durante el tiempo que trabaje en el hotel."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Cisco",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Rubatec",
+          "URL": "https://www.rubatec.es/"
+        },
+        "roles": [
+          {
+            "name": "Service Manager",
+            "startDate": "2009-10-01",
+            "finishDate": "2010-10-01",
+            "challenges": [
+              {
+                "description": "Única experiencia fuera del sector informático. Liderar un equipo compuesto por frigoristas, electricista, mecánicos, soldadores, pintores, etc. en total 14 técnicos más los trabajos subcontratados.\n\nResponsable de la gestión económica de los contratos, definición y búsqueda de los perfiles necesarios en nuevos servicios, selección, entrevistas, contrataciones. Relaciones con proveedores de servicios y material.\n\nAlcance del servicio, 11 edificios, 200.000m2 de instalaciones.\n\nClientes asignados\nPágina 3\n- Estación de Tratamiento Agua Potable (ETAP TER). De especial criticidad, la mitad del agua de la ciudad de Barcelona depende esta estación.\n- Instituto Nacional de la Seguridad Social (INSS) edificios de Paseo Sant Joan y Sant Antoni Maria Claret.\n- MC Mutual, principalmente las oficinas de la ciudad de Barcelona donde se ubica el personal residente.\n- Administrador de Infraestructuras Ferroviarias (ADIF), estaciones de Girona, Figueres y PortBou.\n\nLogros.\nAl ser contratos de mantenimiento adjudicados por concurso, no es posible facturar mucho más de lo acordado en los contratos, durante mi estancia no se perdió ningún contrato."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hotel ME Barcelona"
+        },
+        "roles": [
+          {
+            "name": "CIO Chief information officer",
+            "startDate": "2008-03-01",
+            "finishDate": "2009-06-01",
+            "challenges": [
+              {
+                "description": "Traspasado a Sol Meliá con la venta del proyecto de Habitat grup empresarial, durante las obras de construcción.\n\nInicialmente realizo funciones de jefe de proyecto y obra. Definición requerimientos y aplicación de cambios al proyecto de ingeniería original. Se realizan cambios en el proyecto de ingeniería original, se diseñan los troncales con F.O., se rediseña el mapa WIFI\n\nImplantación de los sistemas informáticos y de gestión, PMS primero Tsipro y posteriormente se implantó Opera.\n\nExplotación de los sistemas informáticos, de seguridad y audiovisuales.\n\nAl ser un jefe de departamento participaba en las rondas semanales de guardias de Manager on Duty.\n\nServicio 24x7\n\nLogros\n35 plantas + 5 plantas inferiores y no hay un solo punto sin cobertura Wifi.\n100% de disponibilidad de los sistemas durante mi permanencia en la empresa."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Cisco",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Getronics"
+        },
+        "roles": [
+          {
+            "name": "Responsable Outsourcing Informático",
+            "startDate": "2006-07-01",
+            "finishDate": "2008-02-01",
+            "challenges": [
+              {
+                "description": "Máximo responsable técnico y de servicio del Outsourcing TI de Habitat Grup Empresarial.\n\nResponsable de la gestión económica del contrato.\nGestión de los técnicos asignados.\nRelaciones con proveedores propios y del cliente.\nControl de calidad del servicio.\n\nAlcance del servicio\n- Sede central en Placa Gala Placidia\n- 22 obras\n- Hotel ME Barcelona (BCN)\n- Hotel Neri (BCN)\n- Hotel Sant Cugat (BCN)\n- Hotel de las Letras (MDR)\n- Hotel Bauzá (MDR)\n- Empordà Golf club (GIR)\n- Hotel Empordà Club (GIR)\n\nAl finalizar el contrato con Getronics, Habitat me propone que me incorpore al equipo para liderar el proyecto del hotel ME Barcelona, en construcción en aquel momento, subiendo el esqueleto por la planta 4.\n"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Cisco",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Web3",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/josemhernandez/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        },
+        {
+          "name": "Ahrefs",
+          "type": "technology"
+        },
+        {
+          "name": "Arduino",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Business Operations & Strategy",
+        "IT Manager",
+        "Project Manager & Delivery Manager"
+      ]
+    }
+  }
+}
