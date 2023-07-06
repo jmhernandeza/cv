@@ -1,30 +1,26 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "José Manuel",
       "surnames": "Hernández Agudo",
+      "title": "Title",
       "description": "Tengo habilidades y capacidades para liderar equipos de IT, demostrables tras más de 30 años de experiencia en puestos de responsabilidad, mi experiencia en transformación digital y servicios está al servicio de mis clientes. Con una formación continuada en gestión y técnica en general.\n\nA nivel de estudios tengo un MBA de la E.A.E. y otro más de ThePowerMBA. Enfocado hacia la definición de servicio al cliente, el cliente siempre en el centro. He dirigido servicios y proyectos, y siempre con un alto nivel de servicio hacia el cliente. He dado servicio a entornos críticos como prisiones y hoteles (ambos con necesidades 24×7). He transformado empresas y organismos públicos hacia entornos operativos digitalizados.\n\nNo tengo problema en tomar decisiones y responsabilidades. Sé delegar y transmitir a mi equipo parte de la responsabilidad. Sé motivar a mis equipos, ver sus habilidades y capacidades personales. Gran mentor, acompaño en el desarrollo de las personas y las promociono. Nunca un técnico mío ha estado solo ante un problema, tengo valores y el trabajo en equipo es fundamental.\n\nComunicador, capaz de transmitir la cultura y principios de la compañía hacia mis equipos. Con visión estratégica del negocio, me gusta trabajar horizontalmente, buscando las sinergias con otras áreas del negocio. Me gusta tener siempre una visión global de las cosas.\n\nBuen analista, con gran capacidad para definir puestos de trabajo, procesos y procedimientos operativos. Esta capacidad de análisis hace que tenga grandes capacidades para definir herramientas de gestión del servicio.\n\n¿Qué puedo aportar a una compañía? Aporto una amplia experiencia en relación con el cliente, toma de requerimientos, diseño de ofertas, presentación de ofertas a cliente, definición y diseño del servicio, seguimiento de la transformación y su paso a servicio. Seguimiento del acuerdo de servicio. Tanto para clientes del sector privado y como del sector Administración pública.\n\nGran experiencia en relación con empresas subcontratadas, diseño herramientas de control, de control de costes, del seguimiento nivel de servicio, gestión de la facturación.\n",
       "avatar": {
-        "alt": "jmhernandez 3.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/42ad125c-5296-4762-a1c9-64273612983f_jmhernandez-3.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/42ad125c-5296-4762-a1c9-64273612983f_jmhernandez-3.png",
+        "alt": "jmhernandez 3.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
         "country": "España",
         "region": "Cataluña",
         "municipality": "Barcelona"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/josemhernandez/"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -188,22 +184,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "CA",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
           "name": "Cisco",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Windows",
           "type": "technology"
         }
       },
@@ -218,6 +210,32 @@
           "name": "Web3",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacidad de abstracción",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Inteligencia emocional",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Liderazgo",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -225,8 +243,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/josemhernandez/"
+          "URL": "https://www.linkedin.com/in/josemhernandez/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "hernandez_jose_m@hotmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "657741006",
+          "countryCode": "+34"
         }
       ]
     },
@@ -256,6 +283,10 @@
         "IT Manager",
         "Project Manager & Delivery Manager"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustan las startup tecnológicas, aquellas empresas que ponen la tecnología al servicio de las personas, y las empoderan.  Un puesto de IT Manager de una empresa que pone las herramientas de los abogados a disposición de los visitantes es un ejemplo."
   }
 }
