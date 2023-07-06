@@ -20,7 +20,13 @@
         "region": "Cataluña",
         "municipality": "Premià de Mar"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://jmhernandez.tech"
+      }
+    ]
   },
   "experience": {
     "jobs": [
