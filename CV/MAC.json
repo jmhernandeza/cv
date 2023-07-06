@@ -32,6 +32,23 @@
     "jobs": [
       {
         "organization": {
+          "name": "PALBEN FORMACION Y CONSULTORIA S.L."
+        },
+        "roles": [
+          {
+            "name": "Formador",
+            "startDate": "2023-06-01",
+            "finishDate": "2023-06-01",
+            "challenges": [
+              {
+                "description": "Realización del curso formativo del Servei d’Ocupació de Catalunya (SOC) Generalitat de Catalunya:\n\nSOCO15/22/000016 09-01 de Seguridad y civismo en ámbito digital nivel básico (40 horas)\n\nDel programa ADA dirigido a Mujeres. El programa ADA es un programa de formación profesional para el empleo. El objetivo es la adquisición y mejora de competencias digitales para impulsar el emprendimiento, el desarrollo rural y reducir la brecha de género.\n\nLa finalidad del programa ADA es dar cumplimiento a los objetivos y objetivos previstos en el marco de la distribución, por parte del SEPE, de los fondos del Mecanismo de Recuperación y Resiliencia (Fondo MRR), concretamente los destinados a la ejecución de los proyectos de inversión del componente 19 “Plan Nacional de Competencias digitales” e inversión 3 “Competencias digitales para el empleo”."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Milcontratos online S.L.",
           "URL": "https://milcontratos.com"
         },
